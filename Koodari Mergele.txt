@@ -1,5 +1,5 @@
 Devariks' kun töihin meni koodarimme villi,
-Pushaajaksi kuoleman häntä kutsuttiin.
+-f oletukseksi heti laitettiin.
 Haarassaan kun vinoon meni pilkku yhden millin,
 Tuotantoonhan tietty se heti puskettiin
 
@@ -16,11 +16,9 @@ Voi herranjestas...
 Mergele sai ajatuksen kerran toukokuussa
 kaksi haaraa yhteen nyt ompelisi hän
 "merge meni nappiin - vika oli jossain muussa"
-hän päätteli kun kaatui servu käyttäjän
+hän päätteli kun kaatui softa käyttäjän
 
 Voi herranjestas...
-
-
 
 Kaikki Mergelen nuo metkut historiaan jäivät,
 niistä silmät pyöreinä yhä puhutaan.
